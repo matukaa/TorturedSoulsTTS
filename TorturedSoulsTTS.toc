@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: TorturedSoulsTTS
+## Notes: TorturedSoulsTTS
+## Author: Matukaa
+## IconTexture: Interface\AddOns\TorturedSoulsTTS\TorturedSoulsTTS.tga
+## SavedVariables: TorturedSoulsTTSDB
+
+TorturedSoulsTTS.lua
